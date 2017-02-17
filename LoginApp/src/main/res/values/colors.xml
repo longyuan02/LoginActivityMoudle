@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 背景颜色 -->
+    <color name="activity_bg">#f2f2f2</color>
+    <!-- title背景 -->
+    <color name="title_bg">#282d3e</color>
+    <color name="datatitle_bg">#e9e9e9</color>
+    <color name="tv_title">#121f25</color>
+    <color name="bar_bg">#f9f9f9</color>
+    <color name="bar_bg1">#eeeeee</color>
+    <color name="light_blue">#eef7ff</color>
+    <!-- 透明 -->
+    <color name="transparency">#00000000</color>
+    <!-- 白色背景 -->
+    <color name="white">#ffffff</color>
+    <!-- 黑色背景 -->
+    <color name="black">#000000</color>
+    <!-- 黄色背景 -->
+    <color name="yellow">#fff9b8</color>
+    <!-- 字体颜色 -->
+    <color name="tv_blue1">#75b5f0</color>
+    <color name="tv_blue2">#4993d9</color>
+    <!--<color name="tv_black">#111f24</color>-->
+    <color name="tv_black">#1e1e1e</color>
+    <color name="tv_grey">#9aa2a4</color>
+    <color name="redlump">#e74d3d</color>
+    <color name="green1">#49b23d</color>
+    <color name="tv_grey1">#cccccc</color>
+    <color name="tv_lightgrey">#c1cdd9</color>
+    <color name="tv_blue">#53a3ed</color>
+    <color name="tv_red">#ef443b</color>
+    <color name="tv_rednormal">#ff3724</color>
+    <color name="tv_green">#3fae30</color>
+    <color name="tv_croci">#fb9402</color>
+    <color name="tv_crocin">#ffd324</color>
+    <color name="tv_croci1">#ffac53</color>
+    <color name="tv_croci2">#ee7f32</color>
+    <color name="crocilump">#ffac32</color>
+    <color name="tv_crociff8019">#ff8019</color>
+    <color name="ll_pressed">#e9e9e9</color>
+    <color name="ll_pressed1">#f4f4f4</color>
+    <color name="tv_666">#666666</color>
+    <color name="tv_d0d0d0">#d0d0d0</color>
+    <color name="tv_e44b57">#e44b57</color>
+    <color name="tv_abc4b8">#abc4b8</color>
+    <color name="tv_4fa1f0">#4fa1f0</color>
+    <color name="tv_ipblue">#4fa0f1</color>
+
+    <color name="btn_tv_close">#a5cbf4</color>
+    <color name="btn_tv_open">#ffffff</color>
+    <color name="btn_bg_normal">#53a3ed</color>
+    <color name="btn_bg_pressed">#4a91d3</color>
+
+    <!-- 边线 -->
+    <color name="line">#dedede</color>
+    <color name="line1">#1f2330</color>
+    <color name="line2">#5e6477</color>
+    <color name="line3">#999999</color>
+    <color name="linebar">#f2f2f2</color>
+
+    <!-- 边线 -->
+
+    <color name="fund_01">#53a3ed</color>
+    <color name="fund_02">#53edb5</color>
+    <color name="fund_03">#f4fa49</color>
+    <color name="fund_04">#ffb830</color>
+    <color name="fund_05">#ff6f30</color>
+    <color name="fund_06">#ff3030</color>
+    <color name="fund_07">#944ada</color>
+    <color name="fund_08">#cb4ada</color>
+    <color name="fund_09">#3943c0</color>
+    <color name="fund_10">#2d92af</color>
+
+    <color name="bg_f19149">#f19149</color>
+    <color name="bg_eb6100">#eb6100</color>
+    <color name="bg_a84200">#a84200</color>
+
+    <color name="progress">#fb9402</color>
+    <color name="progressback">#282d3e</color>
+    <color name="ln_back">#b21f2430</color>
+    <!-- 1.6新增首页直播-->
+    <color name="tv_zhiboname">#111f24</color>
+    <color name="tv_zhibocontext">#454e52</color>
+    <color name="tv_zhibogrey">#9aa2a4</color>
+    <color name="img_line">#f6f6f7</color>
+    <color name="color_black">#879194</color>
+    <!-- 基金色块-->
+    <color name="ln_fundcode">#fef8e2</color>
+    <color name="color_red">#e7390c</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="tv_buyred">#e8390c</color>
+    <color name="bar_red">#e84c3d</color>
+    <color name="btn_login">#f9c2c0</color>
+    <color name="btn_mustt">#454d50</color>
+    <color name="back_red">#e84c3d</color>
+    <color name="tv_newgrey">#879194</color>
+    <color name="province_line_border">#fff9b8</color>
+    <color name="blacksafe">#454f51</color>
+    <!--1.8字体颜色-->
+    <color name="home_greyline">#e7e7e7</color>
+    <color name="tv_openfollow">#454e53</color>
+    <color name="frame_e7">#e7390c</color>
+    <color name="etf_1red">#e64b3d</color>
+    <color name="color111e24">#111e24</color>
+    <color name="color111e26">#111e26</color>
+    <color name="appstart">#ec6000</color>
+    <color name="paypausered">#f1433b</color>
+    <color name="paypauseblack">#454e53</color>
+    <color name="groupholdyellow">#fff9b5</color>
+    <color name="colorred1">#f1433b</color>
+    <color name="colorblack1">#454e52</color>
+    <color name="coloryellow1">#ffac12</color>
+    <color name="colorgreen1">#49b23b</color>
+    <color name="colorguangfa">#002075</color>
+    <color name="colorpartgreen">#49b23b</color>
+    <color name="ee453ared">#ee453a</color>
+    <color name="yellowfef9b8">#fef9b8</color>
+    <color name="sobotblue">#53aeff</color>
+</resources>

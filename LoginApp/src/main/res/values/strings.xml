@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginActivityMoudle</string>
+    <!-- 登陆页面 -->
+    <string name="edt_inputphone">请输入手机号</string>
+    <string name="edt_verfication">图片验证码，点击可刷新</string>
+    <string name="edt_password">请输入6-16个字符，区分大小写</string>
+    <string name="edt_ps">请输入6位数字</string>
+    <string name="edt_firminput">再次输入</string>
+    <string name="tv_forget">忘记密码?</string>
+    <string name="btn_login">登&#160;&#160;录</string>
+    <string name="edt_inputpassword">请输入密码</string>
+
+</resources>
